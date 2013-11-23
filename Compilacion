@@ -1,0 +1,2 @@
+g++ -Wall -pedantic -g ...programa.cpp -o programa
+valgrind ./programa
